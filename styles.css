@@ -318,7 +318,7 @@ a.right-nav-button:active {
 @media screen and (max-width: 480px) {
 
 	.header {
-		font-size: 2.5em;
+		font-size: 1.9em;
 	}
 
 	.logo {
@@ -334,7 +334,7 @@ a.right-nav-button:active {
 	}
 
 	.hero-description {
-		font-size: 1.5rem;
+		font-size: 1.4rem;
 	}
 
 	.hero-description h2 {
@@ -403,6 +403,10 @@ a.right-nav-button:active {
 	.item img {
 		width: 350px;
 		height: 350px;
+	}
+
+	.contact a {
+		font-size: 1.3rem;
 	}
 }
 
