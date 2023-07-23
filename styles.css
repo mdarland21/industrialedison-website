@@ -115,6 +115,11 @@ a.left-nav-button:visited {
 	border-top-right-radius: 20px;
 }
 
+.active-page {
+	background: #005449;
+	border-top-left-radius: 20px;
+}
+
 
 /*HERO SECTION*/
 
