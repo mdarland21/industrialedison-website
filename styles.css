@@ -475,4 +475,41 @@ a.left-nav-button:visited {
 		font-size: 2.6rem;
 	}
 
+	.items-title {
+		font-size: 1.5em;
+	}
+
+	.mobile-span {
+		display: inline-flex;
+		justify-content: space-between;
+		width: 100%;
+	}
+
+	.mobile-span.item-description {
+		width: 60%;
+	}
+
+	div.mobile-span {
+		font-size: 0.8em;
+		margin: 0 0 5% 0;
+	}
+
+	div.price {
+		margin-left: 5%;
+	}
+
+	.item {
+		margin-bottom: 5%;
+		width: 294px;
+	}
+
+	.item img {
+		width: 294px;
+		height: 294px;
+	}
+
+	.contact a {
+		font-size: 1.2rem;
+	}
+
 }
